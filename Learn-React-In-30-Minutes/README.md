@@ -1,4 +1,4 @@
-# Learn-React-In-30-Minutes
+# Learn React In 30 Minutes
 ## Credits: https://www.youtube.com/watch?v=hQAHSlTtcmY
 
 ## 🧠 Concepts Covered:
