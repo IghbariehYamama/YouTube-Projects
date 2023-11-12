@@ -1,4 +1,4 @@
-# REST-API-With-Node.js-Express-MongoDB---Quick
+# REST API With Node.js, Express, MongoDB - Quick
 ## Credits: https://www.youtube.com/watch?v=fgTGADljAeg
 
 ## 🧠 Concepts Covered:
