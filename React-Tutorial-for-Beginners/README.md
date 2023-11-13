@@ -1,9 +1,14 @@
-# Learn-React-In-30-Minutes
-## Credits: https://www.youtube.com/watch?v=hQAHSlTtcmY
+# React Tutorial for Beginners
+## Credits: https://www.youtube.com/watch?v=SqcY0GlETPk&t=2165s
 
 ## 🧠 Concepts Covered:
-* React function components.
-* React hooks.
-* State management in React.
-* Prop drilling.
-* How to use create-react-app.
+* What is React and how does it work?
+* Building Components
+* Fragments
+* Rendering Lists
+* Conditional Rendering
+* Handling Events
+* Managing State
+* Passing Data/Functions Via Props
+* Passing Children
+* Inspecting Components with React Dev Tools 
